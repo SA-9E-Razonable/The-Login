@@ -1,0 +1,47 @@
+body{
+background-image:url(Home.png);
+background-size: cover;
+background-size: 1530px 740px;
+}
+
+#yellow{
+margin: -40px 125px;
+}
+
+#icon{
+margin-bottom:300px;
+margin-left:-480px;
+}
+
+#Home1{
+padding-top:10px;
+padding-bottom:10px;
+border: 3px solid midnightblue;
+border-radius:40px;
+}
+
+#Home2{
+padding-top:10px;
+padding-bottom:10px;
+border: 3px solid midnightblue;
+border-radius:40px;
+}
+
+#Login{
+color:white;
+font-size:15px;
+font-weight:bolder;
+background-color:midnightblue;
+padding-top:12px;
+padding-bottom:12px;
+padding-left:55px;
+padding-right:60px;
+border: 3px solid midnightblue;
+border-radius:40px;
+margin-left:290px;
+}
+
+.container{
+margin-top:-275px;
+margin-left:200px;
+}
